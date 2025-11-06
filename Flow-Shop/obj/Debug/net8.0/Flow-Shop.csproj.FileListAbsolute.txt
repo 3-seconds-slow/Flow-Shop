@@ -1,0 +1,14 @@
+C:\Users\pirat\source\repos\Flow-Shop\Flow-Shop\bin\Debug\net8.0\Flow-Shop.exe
+C:\Users\pirat\source\repos\Flow-Shop\Flow-Shop\bin\Debug\net8.0\Flow-Shop.deps.json
+C:\Users\pirat\source\repos\Flow-Shop\Flow-Shop\bin\Debug\net8.0\Flow-Shop.runtimeconfig.json
+C:\Users\pirat\source\repos\Flow-Shop\Flow-Shop\bin\Debug\net8.0\Flow-Shop.dll
+C:\Users\pirat\source\repos\Flow-Shop\Flow-Shop\bin\Debug\net8.0\Flow-Shop.pdb
+C:\Users\pirat\source\repos\Flow-Shop\Flow-Shop\obj\Debug\net8.0\Flow-Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pirat\source\repos\Flow-Shop\Flow-Shop\obj\Debug\net8.0\Flow-Shop.AssemblyInfoInputs.cache
+C:\Users\pirat\source\repos\Flow-Shop\Flow-Shop\obj\Debug\net8.0\Flow-Shop.AssemblyInfo.cs
+C:\Users\pirat\source\repos\Flow-Shop\Flow-Shop\obj\Debug\net8.0\Flow-Shop.csproj.CoreCompileInputs.cache
+C:\Users\pirat\source\repos\Flow-Shop\Flow-Shop\obj\Debug\net8.0\Flow-Shop.dll
+C:\Users\pirat\source\repos\Flow-Shop\Flow-Shop\obj\Debug\net8.0\refint\Flow-Shop.dll
+C:\Users\pirat\source\repos\Flow-Shop\Flow-Shop\obj\Debug\net8.0\Flow-Shop.pdb
+C:\Users\pirat\source\repos\Flow-Shop\Flow-Shop\obj\Debug\net8.0\Flow-Shop.genruntimeconfig.cache
+C:\Users\pirat\source\repos\Flow-Shop\Flow-Shop\obj\Debug\net8.0\ref\Flow-Shop.dll
