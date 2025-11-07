@@ -18,7 +18,6 @@ public class Flow_Shop_Tests
         Job[] expected = { C, A, D, E, B };
         Job[] actual = Program.SortTwoMachineJobs(jobs);
 
-        //Assert.AreEqual(expected, actual);
         Assert.IsTrue(actual.SequenceEqual(expected));
     }
 
@@ -55,7 +54,6 @@ public class Flow_Shop_Tests
     {
         List<Job> jobs = new();
         Job[] expected = Array.Empty<Job>();
-        Job[] actual = Program.SortTwoMachineJobs(jobs);
 
         Assert.ThrowsException<ScheduleException>(() => Program.SortTwoMachineJobs(jobs));
     }
@@ -93,12 +91,11 @@ public class Flow_Shop_Tests
     public void ThreeMachineUnsuitableData()
     {
         Job A = new("A", 1, 2, 3);
-        Job B = new("B", 2, 2, 5);
+        Job B = new("B", 2, 4, 5);
         Job C = new("C", 1, 2, 3);
 
         List<Job> jobs = new() { A, B, C };
         Job[] expected = { A, B, C };
-        Job[] actual = Program.SortThreeMachineJobs(jobs);
 
         Assert.ThrowsException<ScheduleException>(() => Program.SortThreeMachineJobs(jobs));
     }
@@ -108,7 +105,6 @@ public class Flow_Shop_Tests
     {
         List<Job> jobs = new();
         Job[] expected = Array.Empty<Job>();
-        Job[] actual = Program.SortThreeMachineJobs(jobs);
 
         Assert.ThrowsException<ScheduleException>(() => Program.SortThreeMachineJobs(jobs));
     }
